@@ -2,15 +2,13 @@
 <br>
 <br>
 <br>
-<br>
 
 
 ☀ 🎮 I'm a Software Engineering student 💻 🌸
 ----------------------------------
 <br>
-<br>
 
-### 💻 Skills 📚
+### 💻  Skills  📚
 <br>
 
 
@@ -35,7 +33,7 @@
 </p>
 <br>
 
-### 🖌 Other Skills ✨
+### 🖌  Other Skills  ✨
 <p align="left">
 <a href="https://www.clipstudio.net/fr/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/apps-clip-studio-paint-icon-512x512-cvnhshzu.png" width="36" height="36" alt="Clip studio paint" /></a>
 <a href="https://www.adobe.com/fr/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="36" height="36" alt="Photoshop" /></a>
