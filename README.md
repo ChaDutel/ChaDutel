@@ -1,13 +1,21 @@
 ### 👋 Hello world ! 👋
+<br>
+<br>
+<br>
+<br>
 
 
 
 
 ☀ 🎮 I'm a Software Engineering student 💻 🌸
 ----------------------------------
+<br>
+<br>
+<br>
 
 
 ### 💻 Skills 📚
+<br>
 
 
 <p align="left">
