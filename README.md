@@ -7,9 +7,6 @@ I'm a Software Engineering student
 ----------------------------------
 
 
-
-
-
 ### ✨ Skills ✨
 
 
