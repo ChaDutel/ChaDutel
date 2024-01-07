@@ -22,7 +22,7 @@
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width="36" height="36" alt="NestJS" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="[https://github.com/prisma/presskit/blob/main/Assets/Prisma-LightLogo.svg](https://github.com/prplx/svg-logos/blob/master/svg/prisma.svg)" width="36" height="36" alt="Prisma" /></a>
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://github.com/prplx/svg-logos/blob/master/svg/prisma.svg" width="36" height="36" alt="Prisma" /></a>
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="36" height="36" alt="vscode" /></a>
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="36" height="36" alt="Vim" /></a>
@@ -41,7 +41,7 @@
 </p>
 
 <!--
-**ChaDutel/ChaDutel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ChaDutel/ChaDutel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. [https://github.com/prisma/presskit/blob/main/Assets/Prisma-LightLogo.svg]
 
 Here are some ideas to get you started:
 
