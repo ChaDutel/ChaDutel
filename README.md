@@ -32,7 +32,7 @@ Other
 </p>
 
 To Contact me: 
-<a href="https://gcc.gnu.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" width="36" height="36" alt="GCC" /></a>
+<a href="https://www.linkedin.com/in/charlinedutel/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="linkedin" /></a>
 <!--
 **ChaDutel/ChaDutel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
