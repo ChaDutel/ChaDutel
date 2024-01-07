@@ -1,4 +1,4 @@
-![image](https://github.com/ChaDutel/ChaDutel/assets/87937434/f6541a6b-9964-4c09-919d-1fd3a2d23fe3)### 👋 Hello world ! 👋
+### 👋 Hello world ! 👋
 
 
 
@@ -7,7 +7,7 @@
 ----------------------------------
 
 
-### 📚 💻 Skills 💻 📚
+### 💻 Skills 📚
 
 
 <p align="left">
@@ -29,8 +29,8 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
 </p>
-
-### 🖌 ✨ Other Skills ✨ 🖌
+<br/>
+### 🖌 Other Skills ✨
 <p align="left">
 <a href="https://www.clipstudio.net/fr/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/apps-clip-studio-paint-icon-512x512-cvnhshzu.png" width="36" height="36" alt="Clip studio paint" /></a>
 <a href="https://www.adobe.com/fr/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="36" height="36" alt="Photoshop" /></a>
