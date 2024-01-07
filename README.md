@@ -1,10 +1,17 @@
 ### 👋 Hello world ! 👋
 
 
+
+
 I'm a Software Engineering student
 ----------------------------------
 
+
+
+
+
 ### ✨ Skills ✨
+
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -31,8 +38,6 @@ Other
 <a href="https://www.adobe.com/fr/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-To Contact me: 
-<a href="https://www.linkedin.com/in/charlinedutel/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="linkedin" /></a>
 <!--
 **ChaDutel/ChaDutel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
